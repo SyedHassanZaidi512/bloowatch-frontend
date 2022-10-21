@@ -1,0 +1,85 @@
+.buttons
+{
+  
+  
+  margin-bottom: 100px;
+  float: right ;
+  display: flex;
+  float: right;
+  flex-wrap:nowrap;
+  gap:4vw;
+  justify-content: right;
+  text-align:right;
+  
+
+
+
+
+ 
+}
+
+li a{
+   
+  color: black;
+ 
+  text-decoration: none;
+
+  
+ }
+.logo
+  {
+    height: 41px;
+    width:10%;
+    margin-left: 5%;
+    min-width: 0px;
+  }
+
+  ul
+  {
+
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+   
+  }
+.Navbar
+{
+  display:flex;
+  position:sticky;
+  top: 0;
+ 
+  gap:50vw;
+  line-height:800%;
+  
+  height: 121px;
+  width:100%;
+  border: 1px solid #979797;
+  background-color: #FFFFFF;
+  
+ 
+  }
+
+
+  @media only screen and (max-width: 870px) {
+    .Navbar
+    {
+     
+     gap:30vw;
+     
+    }
+  }
+  @media only screen and (max-width: 511px) {
+    .Navbar
+    {
+     
+     flex-direction: column;
+     gap:0;
+     
+     
+    }
+    .buttons
+    {
+      margin-right: 2vw;
+    }
+  }
+

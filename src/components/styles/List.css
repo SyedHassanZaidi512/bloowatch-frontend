@@ -1,0 +1,240 @@
+.List1
+{
+ 
+ display: flex;
+ margin-top: 100px;
+ 
+ width:100%;
+ min-width: 0;
+ overflow:hidden;
+ justify-content: space-around;
+ max-width:100vw;
+
+}
+.results
+{
+    width: 60vw;
+}
+.Plist
+{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+   
+    
+   
+    
+}
+.Products
+{   
+    display: flex;
+    gap:2vw;
+    justify-content:space-between;
+    flex-direction: row;
+    flex-wrap:wrap;
+    align-items:flex-end;
+    margin-top: 5vw;
+    margin-left: 2vw;
+   
+   
+  
+}
+
+.Oval
+{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:70.66px;
+    width:70.66px;
+    background-color: blue;
+    border-radius:50% ;
+    text-align: center; 
+    color: white;
+    margin:0;
+    padding: 0;
+}
+.ovalandimg
+{
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+   
+
+}
+.rectangle
+{   display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 2vw;
+    width:12vw;
+    background-color: #0C0EB6;
+    color: white;
+    
+}
+
+.board-text {
+    color: #000000;
+   
+    font-size: 19px;
+    font-weight: 400;
+    letter-spacing: 0;
+  }
+  .board-text2 {
+      display: flex;
+    color: #0C0EB6;
+    font-size: 15px;
+    font-weight: 400;
+    padding:12px ;
+  
+  }
+  .secondlist
+  { 
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 1vh;
+
+  }
+  .last-box
+  {
+     display: flex;
+     flex-direction: row;
+     gap: 1vh;
+  }
+.rectangle2
+{   display: flex;
+    
+    align-items: center;
+    justify-content: center;
+    height: 20.62px;
+    width: 100.68px;
+    background-color: #0C0EB6;
+    color: white;
+    
+}
+
+.price
+{
+    text-decoration: line-through;
+}
+
+
+
+.Search
+{    
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
+     margin-top: 5vw;
+     max-width: fit-content;
+     margin-right: 5vw;
+     margin-left:5vw;
+     gap: 2vw;
+     position:static;
+}
+.form
+{
+    height: 50px;
+    width: 350px;
+    margin-top: 1vw;
+}
+
+.catogeries
+{    margin-top: 1vw;
+    display: flex;
+    flex-direction: column;
+    gap: 1vw;
+    color: rgba(0, 0, 0, 0.438);
+}
+.catogeries1:hover
+{
+    color:lightblue;
+    text-emphasis-style:19px;
+}
+
+.categeries1
+{
+      text-align: left;
+      color: blue;
+}
+.rproduct img{
+    height: 90px;
+    width: 40.21px;
+    align-items: center;
+    
+    
+}
+.rproduct
+{   display: flex;
+    gap:10vw;
+    height: 115.38px;
+    width: 90px;
+    background-color: #FAFAFA;
+    justify-content: center;
+    align-items: center;
+
+    
+   
+
+}
+
+.thunder
+{
+  display:flex;
+  flex-direction: column;
+  gap:1vw;
+ 
+}
+.thunderboard
+{
+    display: flex;
+    flex-direction: row;
+     align-items: center;
+     
+
+}
+.man
+{
+  margin-top:2vw;
+}
+
+.image
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* .navbtn
+{   display: flex;
+    justify-content: center;
+    float: right;
+    margin-top: 50vw;
+    height:100px;
+    width:50px;
+    background-color: black;
+    border-radius: 20px;
+
+} */
+.pl
+{
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+@media only screen and (max-width:891px) {
+    .List1
+    {
+        flex-direction: column;
+    }
+    
+}
+
+

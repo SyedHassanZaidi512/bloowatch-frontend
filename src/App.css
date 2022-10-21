@@ -1,0 +1,14 @@
+.App
+{
+
+  min-width: fit-content;
+  height: fit-content;
+  overflow:hidden ;
+
+}
+
+p
+{
+   margin-left:2vw;
+   margin-right:2vw;
+}

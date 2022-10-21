@@ -1,0 +1,33 @@
+.App-header {
+  
+ 
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+  }
+  
+  
+    .textbar{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 212px;
+      width:100%;
+      border: 1px solid #979797;
+      background-color: #0C0EB7;
+      
+      
+    }
+  
+    .ptext
+    {
+     
+      height: 50%;
+      width: 60%;
+      color:white;
+      font-size: 2rem;
+
+    }
+  

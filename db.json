@@ -1,0 +1,199 @@
+{
+  "Plist": [
+    {
+      "id": 1,
+      "saleItem": true,
+      "category": [
+        "Boards",
+        "Equipment"
+      ],
+      "name": "LIGTTWAVE BOARD",
+      "price": 150,
+      "priceBeforeSale": 160,
+      "image": "/assets/Board1.png",
+      "image1": "/assets/Board1.png",
+      "image2": "/assets/istockphoto.jpg",
+      "image3": "/assets/bord1.jpg",
+      "image4": "/assets/7185685.jpg",
+      "sale": false,
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "saleItem": true,
+      "category": [
+        "Boards",
+        "Equipment"
+      ],
+      "name": "SCUBA DIVING WETSUIT",
+      "price": 160,
+      "priceBeforeSale": 180,
+      "image": "assets/Swim.png",
+      "image1": "/assets/bord1.jpg",
+      "image2": "assets/Swim.png",
+      "image3": "/assets/Swim.png",
+      "image4": "/assets/Swim.png",
+      "sale": false,
+      "sale1": 200,
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "saleItem": false,
+      "category": [
+        "Boards",
+        "Equipment"
+      ],
+      "name": "SCUBA DIVING WETSUIT 2",
+      "price": 260,
+      "image": "/assets/Swim.png",
+      "sale": false,
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "saleItem": false,
+      "category": [
+        "Boards",
+        "Equipment"
+      ],
+      "name": "SCUBA DIVING WETSUIT 3",
+      "price": 360,
+      "image": "/assets/Swim.png",
+      "sale": false,
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "saleItem": false,
+      "category": [
+        "Boards",
+        "Equipment"
+      ],
+      "name": "SCUBA DIVING WETSUIT 4",
+      "price": 460,
+      "image": "/assets/Swim.png",
+      "sale": false,
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "saleItem": false,
+      "category": [
+        "Boards",
+        "Equipment"
+      ],
+      "name": "SCUBA DIVING WETSUIT 5",
+      "price": 460,
+      "image": "/assets/womens.png",
+      "sale": false,
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "saleItem": false,
+      "category": [
+        "Boards",
+        "Scubadiving"
+      ],
+      "name": "Woman's Wetsuit Pro",
+      "price": 150,
+      "image": "/assets/Swim.png",
+      "sale": false,
+      "quantity": 1
+    },
+    {
+      "id": 8,
+      "saleItem": false,
+      "category": [
+        "Canoenig",
+        "Equipment",
+        "Surfing"
+      ],
+      "name": "Board Paddle Pair",
+      "price": 100,
+      "image": "/assets/board2.png",
+      "sale": false,
+      "quantity": 1
+    }
+  ],
+  "Cart": [
+    {
+      "id": 1,
+      "saleItem": true,
+      "category": [
+        "Boards",
+        "Equipment"
+      ],
+      "name": "LIGTTWAVE BOARD",
+      "price": 150,
+      "priceBeforeSale": 160,
+      "image": "/assets/Board1.png",
+      "image1": "/assets/Board1.png",
+      "image2": "/assets/istockphoto.jpg",
+      "image3": "/assets/bord1.jpg",
+      "image4": "/assets/7185685.jpg",
+      "sale": false,
+      "quantity": 15
+    },
+    {
+      "id": 2,
+      "saleItem": true,
+      "category": [
+        "Boards",
+        "Equipment"
+      ],
+      "name": "SCUBA DIVING WETSUIT",
+      "price": 160,
+      "priceBeforeSale": 180,
+      "image": "assets/Swim.png",
+      "image1": "/assets/bord1.jpg",
+      "image2": "assets/Swim.png",
+      "image3": "/assets/Swim.png",
+      "image4": "/assets/Swim.png",
+      "sale": false,
+      "sale1": 200,
+      "quantity": 15
+    },
+    {
+      "id": 3,
+      "saleItem": false,
+      "category": [
+        "Boards",
+        "Equipment"
+      ],
+      "name": "SCUBA DIVING WETSUIT 2",
+      "price": 260,
+      "image": "/assets/Swim.png",
+      "sale": false,
+      "quantity": 7
+    },
+    {
+      "id": 7,
+      "saleItem": false,
+      "category": [
+        "Boards",
+        "Scubadiving"
+      ],
+      "name": "Woman's Wetsuit Pro",
+      "price": 150,
+      "image": "/assets/Swim.png",
+      "sale": false,
+      "quantity": 1
+    },
+    {
+      "id": 8,
+      "saleItem": false,
+      "category": [
+        "Canoenig",
+        "Equipment",
+        "Surfing"
+      ],
+      "name": "Board Paddle Pair",
+      "price": 100,
+      "image": "/assets/board2.png",
+      "sale": false,
+      "quantity": 4
+    }
+  ]
+}
